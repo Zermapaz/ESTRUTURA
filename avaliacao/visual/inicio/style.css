@@ -1,0 +1,29 @@
+body {
+	background-color:#ffffff;
+	font-family: 'Roboto', sans-
+	serif;
+	margin: 0;
+	padding: 0;
+	background-color:#ffffff;
+	}
+	
+	header {
+		text-align: center;
+		padding: 20 px 0;
+		background-color: #f3f3f3;
+		color: #000000;
+	}
+	
+	.apresentacao img {
+	margin-right: 10px;
+	width: 800px;
+	object-fit: contain;
+	float: left;
+	}
+	
+	.apresentacao {
+	height: 400px;
+	padding: 50px;
+	font-size: 20px;
+	}
+	
