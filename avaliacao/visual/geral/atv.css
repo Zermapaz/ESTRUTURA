@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+    color: white;
+}
+#a1{
+    background-color:red ;
+    margin: 20px;
+    width: 400;
+}
+#a2{
+    background-color:orangered ;
+    margin: 20px;
+    margin-left: 15vmin;
+    width: 400;
+}
+#a3{
+    background-color:orange;
+    margin: 20px;
+    margin-left: 30vmin;
+    width: 400;
+}
+#a4{
+    background-color:green ;
+    margin: 20px;
+    margin-left: 45vmin;
+    width: 400;
+}
+#a5{
+    background-color:rgb(49, 138, 255) ;
+    margin: 20px;
+    margin-left: 60vmin;
+    width: 400;
+}
+#a6{
+    background-color:blue ;
+    margin: 20px;
+    margin-left: 75vmin;
+    width: 400;
+}
+#a7{
+    background-color:plum ;
+    margin: 20px;
+    margin-left: 90vmin;
+    width: 400;
+}
+
+#imgs-gap{
+    margin-top: 5vmin;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    gap: 15vmin;
+}
+
+#imgs-gap img{
+    background-color: aliceblue;
+    border-radius: 100%;
+    width: 20vmin;
+}
+
+#imgs{
+    justify-content: center;
+}
+
+#imgs img{
+    width: 100vmax;
+    margin-top: 5vmax;
+    background-color: aliceblue;
+    border-radius: 100%;
+}
+header {
+	text-align: center;
+	padding: 20 px 0;
+	background-color: #313030;
+	color: #FFF;
+}
+
+.apresentacao img {
+margin-right: 10px;
+width: 800px;
+object-fit: contain;
+float: left;
+}
+
+.apresentacao {
+height: 400px;
+padding: 50px;
+font-size: 20px;
+}
